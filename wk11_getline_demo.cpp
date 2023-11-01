@@ -11,8 +11,8 @@
 //  - cin and getline() represent two different modes of the same input
 //      stream. Don't mix them. Use one or the other in your code.
 //------------------------------------------------------------------------------
-#include <iostream>
-#include <string>
+#include <iostream> // needed for cout, cin
+#include <string>   // needed for getline()
 
 using namespace std;
 
